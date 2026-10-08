@@ -1,0 +1,705 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "5f429619-55e8-43c6-a83d-59af6606e660")
+	(paper "User" 179.5018 147.9804)
+	(title_block
+		(title "TeeVee Remote Mockup")
+		(rev "1")
+	)
+	(lib_symbols)
+	(circle
+		(center 25.4 86.36)
+		(radius 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "046798d5-fe2f-41e9-abf3-8c13eab4cc27")
+	)
+	(rectangle
+		(start 21.59 91.44)
+		(end 34.925 97.79)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "08c9d1d2-7b7d-48c9-863c-1cb9fb3cad4a")
+	)
+	(rectangle
+		(start 21.59 99.06)
+		(end 34.925 105.41)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "1e967e07-94d2-4040-b4b8-712ca9c2a239")
+	)
+	(rectangle
+		(start 36.195 91.44)
+		(end 49.53 97.79)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "57944296-d480-4ffb-b983-cbd11ff25b75")
+	)
+	(circle
+		(center 35.56 45.72)
+		(radius 6.35)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "59954679-6b33-460e-ba33-94efdff08fb8")
+	)
+	(circle
+		(center 35.56 45.72)
+		(radius 15.24)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "59d02c87-64a2-4010-b0c5-83634d311f7b")
+	)
+	(arc
+		(start 34.29 26.67)
+		(mid 33.5461 28.4661)
+		(end 31.75 29.21)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "64a21dff-ddf3-47d3-8c11-4fe2d40ddf81")
+	)
+	(rectangle
+		(start 36.195 99.06)
+		(end 49.53 105.41)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "6d27604c-34a2-4f90-a881-5324328a6e5f")
+	)
+	(arc
+		(start 24.13 29.21)
+		(mid 22.3339 28.4661)
+		(end 21.59 26.67)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "b036b27c-a51d-4cf3-9277-76b27bbe8161")
+	)
+	(rectangle
+		(start 21.59 106.68)
+		(end 49.53 113.03)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "b3e9d1e8-8671-4eb7-a013-1bbdf25a3d86")
+	)
+	(rectangle
+		(start 31.75 62.23)
+		(end 39.37 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c2aacebc-5469-44af-ab63-84cee3004ab3")
+	)
+	(circle
+		(center 35.56 86.36)
+		(radius 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cb9891b0-79dc-458f-a974-9074609bf0a3")
+	)
+	(arc
+		(start 31.75 21.59)
+		(mid 33.5461 22.3339)
+		(end 34.29 24.13)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cc117fee-ebd0-4379-9687-b0f98cd2274b")
+	)
+	(rectangle
+		(start 16.51 16.51)
+		(end 54.61 130.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cd590d10-bf66-4a7b-8000-c2c4a1496eec")
+	)
+	(rectangle
+		(start 21.59 62.23)
+		(end 29.21 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cd7ebe44-5283-4219-8ac4-5d7e3521e1e8")
+	)
+	(rectangle
+		(start 41.91 62.23)
+		(end 49.53 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "d4c457cf-e56e-44bd-8a31-8e1809e5ea49")
+	)
+	(arc
+		(start 21.59 24.13)
+		(mid 22.3339 22.3339)
+		(end 24.13 21.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ef5413cb-fd29-4f76-8e7e-b324715b073b")
+	)
+	(circle
+		(center 45.72 86.36)
+		(radius 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "fddc157b-3a9f-4a74-9d69-c406f8abff31")
+	)
+	(text "Remote Mockup"
+		(exclude_from_sim no)
+		(at 132.842 23.876 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "02da771b-374f-4fff-ad38-ba2957b3ab05")
+	)
+	(text "9"
+		(exclude_from_sim no)
+		(at 45.72 67.31 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "09bd3bd1-9ea5-42ad-97d8-669c529c19bc")
+	)
+	(text "8 - Source"
+		(exclude_from_sim no)
+		(at 59.69 57.15 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "0fa6e58e-1608-4eec-8e2e-e486e77e63a6")
+	)
+	(text "11"
+		(exclude_from_sim no)
+		(at 35.56 76.708 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "108b622e-b67d-438d-8627-5c9b471145d2")
+	)
+	(text "3 - Navigation LEFT"
+		(exclude_from_sim no)
+		(at 59.69 31.75 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "1a091c54-f1e7-4d90-bd11-5f47c155ba16")
+	)
+	(text "9 - Channel UP"
+		(exclude_from_sim no)
+		(at 59.69 62.23 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "1aecae7d-233b-4f91-bbb1-a8a041989f2a")
+	)
+	(text "21"
+		(exclude_from_sim no)
+		(at 43.18 110.236 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1b1b901b-03c4-4822-b45c-c216da54b520")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 35.56 35.052 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1d8c0b35-989e-4469-8c7e-072499156470")
+	)
+	(text "4 - Navigation SELECT"
+		(exclude_from_sim no)
+		(at 59.69 36.83 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "228188fe-57f5-4e70-92b2-24e01dea38db")
+	)
+	(text "1 - Power Button"
+		(exclude_from_sim no)
+		(at 59.69 21.59 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "28fc8c09-591f-4c39-a1b0-4668113c1ab7")
+	)
+	(text "16 - YouTube"
+		(exclude_from_sim no)
+		(at 59.69 97.79 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "2da5a678-7686-4c7c-9f35-e9a66b7e5e0b")
+	)
+	(text "19 - Prime Video"
+		(exclude_from_sim no)
+		(at 123.19 46.99 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "3326b7d4-d2e1-416c-ae61-ea0d59b976e4")
+	)
+	(text "7"
+		(exclude_from_sim no)
+		(at 25.4 67.31 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "362c8608-6621-4173-876a-229cd09753a4")
+	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 35.56 45.974 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3bfb3c72-e487-4bed-a9c0-c1742d285b34")
+	)
+	(text "15"
+		(exclude_from_sim no)
+		(at 45.72 86.614 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "42e14e89-a9ff-446c-9c01-10b4b681baf3")
+	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 35.56 56.642 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "43028427-3bf6-4111-9988-4490b6a53a86")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 27.94 25.654 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "46222f68-762d-47fd-95a7-be86f20df1b4")
+	)
+	(text "14 - Navigation HOME"
+		(exclude_from_sim no)
+		(at 59.69 87.63 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "4cd1c0fa-0588-45db-a51f-718aff8ec93c")
+	)
+	(text "20"
+		(exclude_from_sim no)
+		(at 28.194 110.236 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "531dec2b-9378-48c2-bca9-94666907db7b")
+	)
+	(text "21 - Settings"
+		(exclude_from_sim no)
+		(at 123.19 57.15 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "5e5211e6-97b1-4223-910c-dd36399b92ae")
+	)
+	(text "18 - Jellyfin"
+		(exclude_from_sim no)
+		(at 123.19 41.91 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "6538d0dc-67a7-4057-9aa4-50bc35b7617a")
+	)
+	(text "18"
+		(exclude_from_sim no)
+		(at 28.194 102.616 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "6b83a536-3b0d-4196-9313-7a4ffee92bb9")
+	)
+	(text "15 - Pause/Play"
+		(exclude_from_sim no)
+		(at 59.69 92.71 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "73b8853a-9035-4fa2-9238-3bbf042f30f5")
+	)
+	(text "20 - Spare"
+		(exclude_from_sim no)
+		(at 123.19 52.07 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "7c98bc8a-a7fa-47e4-ac0e-fe603899cb9e")
+	)
+	(text "12"
+		(exclude_from_sim no)
+		(at 45.72 76.708 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "87b9d81c-c076-47cb-a73b-76b8d496aa58")
+	)
+	(text "17"
+		(exclude_from_sim no)
+		(at 42.926 94.996 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "99c8446b-e4c4-449f-b7b6-80d14709eb82")
+	)
+	(text "7 - Volume UP"
+		(exclude_from_sim no)
+		(at 59.69 52.07 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "a0706530-3a97-49b1-aca4-baa0cba36a04")
+	)
+	(text "8"
+		(exclude_from_sim no)
+		(at 35.56 67.31 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a26761fe-7c42-46f5-b1f0-fcc9cf53d220")
+	)
+	(text "17 - Netflix"
+		(exclude_from_sim no)
+		(at 123.19 36.83 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "a508b927-2666-478a-891a-3cfd07bf9d6c")
+	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 46.228 45.974 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a786b8dd-fc81-4893-ab79-33e755b0fa0b")
+	)
+	(text "16"
+		(exclude_from_sim no)
+		(at 28.194 94.996 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a9959256-70ec-4375-9260-09bb671a0633")
+	)
+	(text "13 - Navigation BACK"
+		(exclude_from_sim no)
+		(at 59.69 82.55 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "ab4ed74c-b86e-4d48-bce6-a1896a12a2dd")
+	)
+	(text "5 - Navigation RIGHT"
+		(exclude_from_sim no)
+		(at 59.69 41.91 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "ab535da1-03f6-405a-8d02-f7bee5f2b7f2")
+	)
+	(text "10 - Volume DOWN"
+		(exclude_from_sim no)
+		(at 59.69 67.31 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "bc128a4b-d22e-46c0-865e-a87a7ad47b19")
+	)
+	(text "6 - Navigation DOWN"
+		(exclude_from_sim no)
+		(at 59.69 46.99 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "c37bc886-9a91-45d2-a329-bd6e842a7099")
+	)
+	(text "11 - Voice Assistant"
+		(exclude_from_sim no)
+		(at 59.69 72.39 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "dd5ea7b1-19d2-4b90-a4fd-005f8db98a65")
+	)
+	(text "2 - Navigation UP"
+		(exclude_from_sim no)
+		(at 59.69 26.67 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "e01b8520-abed-4d3f-8673-9fac34f8eec8")
+	)
+	(text "19"
+		(exclude_from_sim no)
+		(at 42.926 102.616 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "e096e0ef-ce75-4e4f-84c2-a47e629bfc34")
+	)
+	(text "10"
+		(exclude_from_sim no)
+		(at 25.4 76.708 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "eb42d296-dd4f-4004-9421-c4518000c451")
+	)
+	(text "13"
+		(exclude_from_sim no)
+		(at 25.4 86.614 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f00fedae-f1ad-451e-9ce4-ade58c9e1ab2")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 24.638 45.974 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f1ebd071-3f02-484e-ae9a-f41453fdc7aa")
+	)
+	(text "12 - Channel DOWN"
+		(exclude_from_sim no)
+		(at 59.69 77.47 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "f3ba6b13-e82e-4545-a9af-5d5cfae563e7")
+	)
+	(text "14"
+		(exclude_from_sim no)
+		(at 35.56 86.614 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f41fc7ac-019c-404b-9ae7-ddbcb009865c")
+	)
+	(text_box "This is my remote mockup, a basic layout of where and what is going to be placed on the remote. Some of the functions and placements were inspired by the Google TV Remote, The Everything Remote by The Stockpot and my current remote."
+		(exclude_from_sim no)
+		(at 107.95 63.5 0)
+		(size 54.61 35.56)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left top)
+		)
+		(uuid "4c923ed2-1ad7-4ae5-853f-10ff670707a4")
+	)
+)
